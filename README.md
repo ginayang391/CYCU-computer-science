@@ -1,6 +1,3 @@
-# ***我是楊詠晴 My name is Gina.***
-## I'm a student majoring in Intelligent Computing and Big Data.
-
                    =@@==@@=    =@@==@@=     
                =@@=    =@@==@@==@@=    =@@=
                  =@@=                =@@=
