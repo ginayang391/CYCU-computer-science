@@ -1,7 +1,7 @@
 ### **我是楊詠晴 My name is Gina.**
-I am a student based in Taoyuan, Taiwan.
-I am currently studying at Chung Yuan Christian University.
-I am majoring in Intelligent Computing and Big Data.
+## I am a student based in Taoyuan, Taiwan, currently studying at Chung Yuan Christian University. I am majoring in Intelligent Computing and Big Data.
+# I am a starstruck girl who follows IU and IVE's Yujin.
+# My favorite cartoon characters are the Minions, especially Stuart, the one with only one eye.
 ```
                    =@@==@@=    =@@==@@=     
                =@@=    =@@==@@==@@=    =@@=
@@ -27,6 +27,6 @@ I am majoring in Intelligent Computing and Big Data.
                   =@@==@@=      =@@==@@=
                    =@==@=        =@==@=
                 =@==@==@=        =@==@==@=
-              =@@==@==@@=        =@@==@==@@=   
+              =@@==@==@@=        =@@==@==@@=  
 ```
 
