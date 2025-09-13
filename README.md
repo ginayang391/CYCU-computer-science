@@ -1,7 +1,5 @@
 # ***我是楊詠晴 My name is Gina.***
-## I am a student based in Taoyuan, Taiwan.
-## I am majoring in Intelligent Computing and Big Data.
-## I am currently studying at Chung Yuan Christian University.
+## I'm a student majoring in Intelligent Computing and Big Data.
 
                    =@@==@@=    =@@==@@=     
                =@@=    =@@==@@==@@=    =@@=
