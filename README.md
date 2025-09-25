@@ -29,6 +29,6 @@
              =@==@==@=        =@==@==@=
            =@@==@==@@=        =@@==@==@@=
 
-And this is Stuart (I typed it).
+And this is Stuart.
 ```
 
